@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "8DF82995-DECC-4694-BF66-7987F9502954",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 440,
+    "width": 440,
+    "x": 36,
+    "y": 36
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "109F6A8E-BD35-47D7-ADFE-8F5A0DA9351F"
+    },
+    {
+      "class": "oval",
+      "id": "5C959A49-4D84-417D-85E7-7370A69811CA"
+    },
+    {
+      "class": "oval",
+      "id": "11E65ABC-7A94-4077-9250-AAC5B31D1A5E"
+    },
+    {
+      "class": "oval",
+      "id": "E3E03DC4-6797-4B1A-955B-DCDB3578AD3D"
+    },
+    {
+      "class": "oval",
+      "id": "3DDA9D72-BC63-4502-AAB2-784FDDDB0944"
+    }
+  ],
+  "name": "Inner",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 2
+      }
+    ],
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

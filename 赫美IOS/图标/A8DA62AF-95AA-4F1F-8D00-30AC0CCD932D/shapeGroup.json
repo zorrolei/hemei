@@ -1,0 +1,111 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "A8DA62AF-95AA-4F1F-8D00-30AC0CCD932D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 1867,
+    "width": 512,
+    "x": 1227,
+    "y": -723
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "CAE5074C-7582-49DB-AE91-F715D3E2EDDA"
+    },
+    {
+      "class": "oval",
+      "id": "F2C45602-A07C-4615-9DD0-0760F8360EF1"
+    },
+    {
+      "class": "oval",
+      "id": "AC9A3356-5C3E-426F-AF7D-48BF0A654E5B"
+    },
+    {
+      "class": "oval",
+      "id": "AF2C9C04-BCDC-460C-B420-8C1C3D2D0B2E"
+    },
+    {
+      "class": "oval",
+      "id": "A94EFB93-D387-494E-B4DA-CAEE18B60617"
+    },
+    {
+      "class": "oval",
+      "id": "CDC5803A-9A85-46DC-95B2-834BCF6D0BE8"
+    },
+    {
+      "class": "oval",
+      "id": "396EF615-F038-42D9-BE30-CD84F764385D"
+    },
+    {
+      "class": "oval",
+      "id": "3A65DF2F-D0FE-4569-B93B-E8BB0B92E8BA"
+    },
+    {
+      "class": "oval",
+      "id": "36811016-3128-47E1-A99D-9AF9857D9220"
+    }
+  ],
+  "name": "Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 18.91304347826087,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "E32A26B8-8B51-4283-AAB4-623B3092E86E"
+    }
+  },
+  "windingRule": 1
+}
