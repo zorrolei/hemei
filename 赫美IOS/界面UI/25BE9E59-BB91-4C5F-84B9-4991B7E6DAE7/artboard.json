@@ -1,0 +1,174 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9764705882352941,
+    "green": 0.9647058823529412,
+    "red": 0.9647058823529412
+  },
+  "do_objectID": "25BE9E59-BB91-4C5F-84B9-4991B7E6DAE7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 4099,
+    "y": -942
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6596C77C-8624-4F74-A39F-A636F433CD89"
+    },
+    {
+      "class": "group",
+      "id": "DD8F3971-A995-492A-88C4-051770B9834D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C5D485D6-2276-4CE8-85AC-6B8804930621"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "56827A6F-0AE3-43BD-ABCE-E8E296BFDFE8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B76199E2-BDC0-4AFD-A67E-787132A11899"
+    },
+    {
+      "class": "text",
+      "id": "E2E87429-03B8-4956-A282-6596C3C28535"
+    },
+    {
+      "class": "text",
+      "id": "2BF120FD-F033-416A-9D45-483AE3B783FB"
+    },
+    {
+      "class": "text",
+      "id": "D9D38A4E-C6EE-48AA-A72D-17DCC56DC7FE"
+    },
+    {
+      "class": "group",
+      "id": "12FE48B1-742F-422B-B1F8-23E87863E882"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "54635635-2994-4C5C-8B6D-418C41E818BF"
+    },
+    {
+      "class": "text",
+      "id": "92CDB518-629E-4793-B0D5-946EC4D7A7C0"
+    },
+    {
+      "class": "text",
+      "id": "4E888895-4639-451E-9818-B856E5BE278D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3D1648B1-146C-4BEB-9345-AAA7ACDE9086"
+    },
+    {
+      "class": "text",
+      "id": "1626F204-3BB6-4735-A73B-256A61702212"
+    },
+    {
+      "class": "text",
+      "id": "CF549B7C-1966-4741-955F-8991DD20849A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "70D64946-58ED-4158-876D-928160FCF732"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B565B0C3-D729-4BEC-8475-396F46B0A237"
+    },
+    {
+      "class": "text",
+      "id": "EAD7DAA6-D290-4579-AEB0-5A42DCCB7CE6"
+    },
+    {
+      "class": "text",
+      "id": "A80634D3-5072-46F7-9875-52F90BE5DC0F"
+    },
+    {
+      "class": "text",
+      "id": "04CDCA8C-D87B-4400-8E3B-9A66F0AF7394"
+    },
+    {
+      "class": "text",
+      "id": "87E4BE0A-E6D0-4254-A43A-71F531ED5286"
+    },
+    {
+      "class": "text",
+      "id": "30B2323C-FF36-4EA7-BD32-B14EB2A61B9E"
+    },
+    {
+      "class": "text",
+      "id": "0917BB69-14E8-470F-B65A-DB5783B3364F"
+    }
+  ],
+  "name": "医生简介",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

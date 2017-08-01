@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "492A0804-E502-43AA-A60E-430AE2AD2D23",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 375,
+    "x": 0,
+    "y": 172
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "slice",
+      "id": "FA129058-C0D4-4B24-963B-0DA1848530DC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B105CBCE-8097-44B2-8F5B-151F371834FF"
+    },
+    {
+      "class": "text",
+      "id": "F32B1EB8-2C17-409F-BBFB-8964459051ED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "688B84C6-5BB3-421A-8976-6E8053DCEFA4"
+    }
+  ],
+  "name": "学术会议标题",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

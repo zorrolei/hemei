@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "70C4DC6B-1A0B-4C83-86ED-7114BB1AE8EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 120,
+    "x": 200,
+    "y": 400
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "33680167-364B-418A-A363-BAC90FC89EF7"
+    },
+    {
+      "class": "group",
+      "id": "FAC9D8FC-CFF5-4E8F-815E-94656B886C82"
+    }
+  ],
+  "name": "创建学术会议按钮",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

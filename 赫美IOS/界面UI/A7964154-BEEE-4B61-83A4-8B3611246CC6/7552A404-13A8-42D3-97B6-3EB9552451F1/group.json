@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "7552A404-13A8-42D3-97B6-3EB9552451F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 74,
+    "width": 345,
+    "x": 15,
+    "y": 246
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CC189A37-1397-429A-8B0C-074AA1016B37"
+    },
+    {
+      "class": "text",
+      "id": "0634F8C2-0D34-4389-AD6D-B446E72E4A1D"
+    },
+    {
+      "class": "text",
+      "id": "809864D7-6668-42D8-A3E9-3AE4C0FB3F46"
+    },
+    {
+      "class": "text",
+      "id": "26F35F9A-5C82-4866-B74F-515B62426B64"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BED17A6E-62F8-4484-AE88-BA4CF1AB5AAF"
+    }
+  ],
+  "name": "个人资料 copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

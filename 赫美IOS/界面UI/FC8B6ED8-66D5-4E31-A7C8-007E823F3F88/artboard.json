@@ -1,0 +1,130 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9764705882352941,
+    "green": 0.9647058823529412,
+    "red": 0.9647058823529412
+  },
+  "do_objectID": "FC8B6ED8-66D5-4E31-A7C8-007E823F3F88",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 800,
+    "width": 375,
+    "x": 2674,
+    "y": -942
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F910A1F6-3655-4FC6-9EC3-4D14A7D2BA96"
+    },
+    {
+      "class": "group",
+      "id": "2AB9A892-1A61-4E6E-9C3D-37FDCE7E5D44"
+    },
+    {
+      "class": "group",
+      "id": "5E044E60-D723-4ABD-9BDE-3A3A7AED83CB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9FDC10FC-763B-4E0F-ACE6-E83E1D6385A3"
+    },
+    {
+      "class": "text",
+      "id": "A7DD91EB-B727-42AA-8AED-F09CA1984D49"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "37AAD51A-F25E-4861-A7E9-5737D1FB7184"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "779AF757-DF58-42BF-B524-B38922EB51F1"
+    },
+    {
+      "class": "text",
+      "id": "161C52AC-0C40-4DE3-8508-EFEDCE2C7774"
+    },
+    {
+      "class": "group",
+      "id": "CB0B90DD-0DFD-48FE-92AD-AF6E00E2A467"
+    },
+    {
+      "class": "group",
+      "id": "CFB0B8F3-7EF7-401B-A2B6-47DAC17F9E23"
+    },
+    {
+      "class": "group",
+      "id": "929F8BEB-D094-4CF9-AA6E-3A9928FCFDFE"
+    },
+    {
+      "class": "group",
+      "id": "2E68B9F4-4F20-447C-8F5D-BF3C8862355E"
+    }
+  ],
+  "name": "我的-接诊详情",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

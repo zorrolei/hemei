@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "FB4AE954-1178-415D-84FA-F1D702F3A933",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 170,
+    "width": 342,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B0B559DB-12C6-4F4D-8F1F-12695404FDE5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "85867205-F73A-4704-9859-2FE6D4D34354"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CDF69249-D8D1-45DE-817A-56D5D4D92F50"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "780B5E8E-374C-4AA2-866C-000596E983A1"
+    }
+  ],
+  "name": "Rectangle 9 + Rectangle 7 Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

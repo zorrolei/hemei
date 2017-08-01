@@ -1,0 +1,138 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9764705882352941,
+    "green": 0.9647058823529412,
+    "red": 0.9647058823529412
+  },
+  "do_objectID": "3A4C69A1-1F5F-4D66-BB65-88FD4723CF91",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": -651,
+    "y": -942
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9D2EF990-778A-4F5A-8C14-D56A3D9096A0"
+    },
+    {
+      "class": "group",
+      "id": "7ECCDE19-EF15-4CDD-8D83-18C4D7B28C24"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1319086D-50E8-408F-8C13-4582C4DECE23"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "144D9043-7185-4D8A-B964-3BBC0D6D91F6"
+    },
+    {
+      "class": "text",
+      "id": "C8BDC31E-CD50-439B-BBEE-0984E1308458"
+    },
+    {
+      "class": "text",
+      "id": "6933B2AB-A9DC-4002-91AF-4A09B4D6B142"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3626BFA9-87E8-4933-8F39-9BE42B977380"
+    },
+    {
+      "class": "text",
+      "id": "D09B53BC-9EEB-4200-9A17-2A78CE7AC124"
+    },
+    {
+      "class": "text",
+      "id": "7B93E5F7-8073-45F9-8533-8DE03A4D7708"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BD4DAB1A-936B-4B17-9A70-02F1697E5D61"
+    },
+    {
+      "class": "bitmap",
+      "id": "BC7DFE22-7EAF-47F6-82EE-A60B24A1432B"
+    },
+    {
+      "class": "group",
+      "id": "B8216244-49CF-4C6D-8A08-33977957CB5A"
+    },
+    {
+      "class": "text",
+      "id": "79C2762E-28C3-4EE4-A694-2B00999AA124"
+    },
+    {
+      "class": "text",
+      "id": "FA78EACB-9C05-49A2-89BF-5238894462F7"
+    }
+  ],
+  "name": "转诊-选择地区",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

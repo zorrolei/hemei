@@ -1,0 +1,142 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9725490196078431,
+    "green": 0.9568627450980393,
+    "red": 0.9529411764705882
+  },
+  "do_objectID": "68D77702-55DD-4178-AF15-D2244A3029ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": -1126,
+    "y": 596
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "731DCD30-C20E-47F5-A4F7-9EDCC6CFDD61"
+    },
+    {
+      "class": "text",
+      "id": "7F6787AF-FCCC-4390-8524-C6AD8F51D5D7"
+    },
+    {
+      "class": "group",
+      "id": "840E89FC-0A19-4F62-9809-6E68F1575A55"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "52330E6A-8082-4655-9C26-03D09D577A67"
+    },
+    {
+      "class": "group",
+      "id": "C218C901-7876-45E3-A88C-760673F41471"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DB4414EA-D55A-4199-A982-71C3B6716749"
+    },
+    {
+      "class": "group",
+      "id": "59145F66-FE7A-4B52-80F7-D438293E1724"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6152E4BA-CEB3-497B-B3E6-4B4F14EDB317"
+    },
+    {
+      "class": "group",
+      "id": "3174040C-4543-47A3-B541-1699501C2F3B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B8B74996-448F-4A3B-A973-0F35B6F48883"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1E9484FF-F752-4FAD-A2B9-AF27474B4CB1"
+    },
+    {
+      "class": "group",
+      "id": "DF5E71BF-E19B-4129-9A1A-325CFE9C8BE0"
+    },
+    {
+      "class": "group",
+      "id": "581BF539-C5B8-43DC-B11D-E81DE29475F0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "80B594B9-2B3A-4D45-9244-0F30FE9F79A7"
+    },
+    {
+      "class": "text",
+      "id": "D247D9FD-0199-4AD2-B087-297303C8DBF1"
+    }
+  ],
+  "name": "常用陪同人",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
