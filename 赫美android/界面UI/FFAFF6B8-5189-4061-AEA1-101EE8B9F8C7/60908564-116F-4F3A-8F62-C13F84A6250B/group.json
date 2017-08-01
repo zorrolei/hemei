@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "60908564-116F-4F3A-8F62-C13F84A6250B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 33,
+    "width": 73,
+    "x": 151,
+    "y": 234
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "475F4E4A-C119-4D0C-9944-2AED6FAC19E8"
+    },
+    {
+      "class": "group",
+      "id": "1BABC38D-E420-416B-94A3-1999C671F77F"
+    }
+  ],
+  "name": "当前积分",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

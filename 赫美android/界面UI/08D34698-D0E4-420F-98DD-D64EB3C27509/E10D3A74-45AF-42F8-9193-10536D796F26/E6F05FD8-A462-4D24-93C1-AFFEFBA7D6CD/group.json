@@ -1,0 +1,104 @@
+{
+  "_class": "group",
+  "do_objectID": "E6F05FD8-A462-4D24-93C1-AFFEFBA7D6CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 183,
+    "width": 329,
+    "x": 16.32,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7539D0F3-0A06-4F9C-AE65-E9E4C2793346"
+    },
+    {
+      "class": "text",
+      "id": "09E3962B-F84C-4D99-ACCF-9E5EC8574B48"
+    },
+    {
+      "class": "text",
+      "id": "03C6DFBA-4E93-4D28-95E7-935A9D9D0822"
+    },
+    {
+      "class": "text",
+      "id": "E760C499-5AEA-4432-83CE-C11F0222A428"
+    },
+    {
+      "class": "text",
+      "id": "9882A847-9BCC-4908-BF79-4816E883238E"
+    },
+    {
+      "class": "text",
+      "id": "5A9930D4-6CF6-47E0-A703-F37983CF1765"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "53BBF0F1-3822-440A-83ED-56CBAAD2C97D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B30B308A-0B75-4EC5-9C5E-857555F43059"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A004B0ED-E668-4FD3-A949-3D45129F02D0"
+    }
+  ],
+  "name": "slider_image_demo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

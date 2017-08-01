@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "3E9B2067-48AB-4AE5-86B3-ED2A3E6A1029",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21,
+    "width": 64,
+    "x": 288.96,
+    "y": 60
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "495D9CEE-1B2B-497D-A9C6-32E1010237CB"
+    },
+    {
+      "class": "text",
+      "id": "9C7ED6E0-2B1B-4CF1-AFAA-0E8E250BDEAD"
+    }
+  ],
+  "name": "报名按钮",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

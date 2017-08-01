@@ -1,0 +1,82 @@
+{
+  "_class": "page",
+  "do_objectID": "81326F3B-83CC-4790-950C-0A48B5AB70DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -713,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E23C8CBB-CCB3-4923-812C-903C2B9485E6"
+    },
+    {
+      "class": "artboard",
+      "id": "FC3ED466-CB40-405C-BB96-D1D8BE6C90DF"
+    },
+    {
+      "class": "artboard",
+      "id": "50C626CD-2EB1-4821-A3F8-1B6E1AFDBAE7"
+    },
+    {
+      "class": "artboard",
+      "id": "655CED70-08D5-4B26-B9FB-25A596C2CB36"
+    },
+    {
+      "class": "artboard",
+      "id": "FFB5ECF7-E90F-461D-A524-A99F68880062"
+    },
+    {
+      "class": "artboard",
+      "id": "47766BBB-FD8D-4A18-ABFF-34A054E69B7C"
+    },
+    {
+      "class": "artboard",
+      "id": "25A33513-2CC7-41E0-BF32-0B570EA62478"
+    }
+  ],
+  "name": "图标",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -483,
+    "guides": [
+    ]
+  }
+}

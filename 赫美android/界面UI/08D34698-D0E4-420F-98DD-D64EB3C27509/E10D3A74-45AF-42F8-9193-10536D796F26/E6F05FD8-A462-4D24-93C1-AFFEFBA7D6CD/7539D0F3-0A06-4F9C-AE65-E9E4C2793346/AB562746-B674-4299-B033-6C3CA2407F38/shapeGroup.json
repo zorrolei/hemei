@@ -1,0 +1,119 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "AB562746-B674-4299-B033-6C3CA2407F38",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 105,
+    "width": 348.48,
+    "x": -6.72,
+    "y": 118
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "BD21AA4C-43CA-42BC-ABE8-975A0288BE57"
+    },
+    {
+      "class": "oval",
+      "id": "CB6EB61C-9D76-4B2A-885A-5BE7C07CFA7E"
+    },
+    {
+      "class": "oval",
+      "id": "397E8135-3411-4440-80A5-1F4FFF5A56A5"
+    },
+    {
+      "class": "oval",
+      "id": "6F3DB99A-24F3-4259-B8D2-0D97A115E283"
+    },
+    {
+      "class": "oval",
+      "id": "6B8D5430-CE66-43E8-A24D-97374EB6C840"
+    },
+    {
+      "class": "oval",
+      "id": "3F56935D-9BED-448F-88B9-6C6146EC38E1"
+    },
+    {
+      "class": "oval",
+      "id": "7B0457FB-FB58-429E-BC23-7714A61F6573"
+    },
+    {
+      "class": "oval",
+      "id": "0BDDEFE3-2548-43F0-829F-22387007DAB5"
+    },
+    {
+      "class": "oval",
+      "id": "738E859F-2591-4BE0-B4F4-C94DA6F751C8"
+    }
+  ],
+  "name": "Combined Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5
+    },
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}
