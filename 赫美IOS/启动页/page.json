@@ -1,0 +1,74 @@
+{
+  "_class": "page",
+  "do_objectID": "1685E081-56ED-48FD-8BB3-D7DBA9050766",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -713,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "E5060A1D-82D1-48E2-B65B-C20AAA7FDF1F"
+    },
+    {
+      "class": "artboard",
+      "id": "6A5D5035-CE5F-4F7C-AEEB-2A9B0A3971E2"
+    },
+    {
+      "class": "artboard",
+      "id": "96A5022D-E72D-4249-B9F9-A4F6C270D944"
+    },
+    {
+      "class": "artboard",
+      "id": "8EE50F6E-8728-45A6-853C-DCD525F6F5F2"
+    },
+    {
+      "class": "artboard",
+      "id": "E0D1ABC0-FCC5-4E83-9054-E8E27167DF1A"
+    }
+  ],
+  "name": "启动页",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -483,
+    "guides": [
+    ]
+  }
+}
