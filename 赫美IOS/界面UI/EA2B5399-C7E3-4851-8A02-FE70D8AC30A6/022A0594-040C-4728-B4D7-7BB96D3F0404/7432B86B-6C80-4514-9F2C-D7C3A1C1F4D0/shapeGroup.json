@@ -1,0 +1,169 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "7432B86B-6C80-4514-9F2C-D7C3A1C1F4D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 5.924016332394856,
+    "width": 8.980645161290305,
+    "x": 1.509677419354839,
+    "y": 3.019354838709677
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DA8276B1-2261-41D2-8F71-81F35122CFFA"
+    },
+    {
+      "class": "shapePath",
+      "id": "65351990-9B8D-4A4D-8DBA-D32DF20A0743"
+    },
+    {
+      "class": "shapePath",
+      "id": "C9A3B614-98F4-4ED5-83A9-9E6DF3134CBF"
+    },
+    {
+      "class": "shapePath",
+      "id": "85793A20-C2E9-42CB-9C23-7A7D19BBF5C4"
+    },
+    {
+      "class": "shapePath",
+      "id": "8070FF14-3080-4085-BCE8-9079897C3025"
+    },
+    {
+      "class": "shapePath",
+      "id": "206E3C43-1653-45E0-8DF4-670666AC9C85"
+    },
+    {
+      "class": "shapePath",
+      "id": "CE7A3CDA-20F7-42DB-979C-192FC22F5328"
+    }
+  ],
+  "name": "Combined Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.02497398543184183,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 2,
+        "thickness": 0.5
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1874845052989235,
+          "green": 0.9108227755248568,
+          "red": 0.9684311224489796
+        },
+        "fillType": 1,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 1,
+          "from": "{0.5, 0}",
+          "gradientType": 1,
+          "shouldSmoothenOpacity": false,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1764705882352941,
+                "green": 0.8470588235294118,
+                "red": 0.996078431372549
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1686274509803922,
+                "green": 0.788235294117647,
+                "red": 0.984313725490196
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 1,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1024682971014493,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "sharedObjectID": "FF474B2D-888A-46DE-A86D-502D5627F94C",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

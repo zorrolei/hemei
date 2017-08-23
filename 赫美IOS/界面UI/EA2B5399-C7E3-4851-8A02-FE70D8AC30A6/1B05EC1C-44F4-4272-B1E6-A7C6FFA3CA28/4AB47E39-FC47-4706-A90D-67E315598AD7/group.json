@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 17,
-    "width": 68,
-    "x": 281,
+    "width": 51,
+    "x": 298,
     "y": 23
   },
   "hasClickThrough": false,
@@ -23,12 +23,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "group",
-      "id": "375ADA60-B27C-4C5D-A6D2-DE0C266A07B0"
-    },
     {
       "class": "text",
       "id": "E7CE8BDF-ADFA-49B3-87F4-7F159CE34BB8"

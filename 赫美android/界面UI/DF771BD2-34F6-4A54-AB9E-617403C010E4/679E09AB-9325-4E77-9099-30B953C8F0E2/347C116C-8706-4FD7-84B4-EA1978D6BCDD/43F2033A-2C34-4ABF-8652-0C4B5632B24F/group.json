@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 11,
+    "height": 12,
     "width": 12,
     "x": 0,
     "y": 4
@@ -23,11 +23,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "DF11FC1D-5801-4F8D-A729-096257245E2F"
+      "class": "group",
+      "id": "00DD2798-0F03-43B9-8423-3FF9ABA328B8"
     }
   ],
   "name": "积分",
