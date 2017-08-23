@@ -23,27 +23,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "12FC4909-8BB3-4F8B-97AC-FA889A8065D4"
-    },
-    {
       "class": "group",
-      "id": "5ECF6770-A6FF-420B-B185-A2BE78067E0E"
+      "id": "2509616C-8B0F-457E-B554-B538190C2514"
     },
     {
       "class": "text",
-      "id": "890B948E-1C04-44AC-86F7-FD6A9AEF008C"
-    },
-    {
-      "class": "group",
-      "id": "07EA07E7-8982-417E-B11E-0ABC998AA2D4"
+      "id": "DB159E31-AA93-4184-8F1D-799F252601DE"
     },
     {
       "class": "text",
-      "id": "A9D8EFF6-F89F-4855-86E2-02BC95112FCC"
+      "id": "43EF9F3C-1C95-41D3-8255-DBAD4359A15A"
     }
   ],
   "name": "个人资料",

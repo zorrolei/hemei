@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "33CF4FD4-8CC6-4718-8EAD-EFB942503D2B",
+  "do_objectID": "12FC4909-8BB3-4F8B-97AC-FA889A8065D4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,9 +13,9 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 60,
-    "width": 60,
+    "constrainProportions": false,
+    "height": 80,
+    "width": 375,
     "x": 0,
     "y": 0
   },
@@ -28,12 +28,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "oval",
-      "id": "665B71C7-9A6A-4E31-A571-573C6283CF4C"
+      "class": "rectangle",
+      "id": "8378A2F5-F364-4B8A-B7C4-4A3835CFDCCD"
     }
   ],
   "name": "Mask",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -52,7 +52,7 @@
         },
         "fillType": 0,
         "isEnabled": false,
-        "position": 0,
+        "position": 1,
         "thickness": 1
       }
     ],
@@ -63,9 +63,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,
@@ -76,6 +76,28 @@
       }
     ],
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 6,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1122905344202899,
+          "blue": 0.6509803921568628,
+          "green": 0.4156862745098038,
+          "red": 0.2666666666666667
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
     "startDecorationType": 0
   },
   "windingRule": 1
