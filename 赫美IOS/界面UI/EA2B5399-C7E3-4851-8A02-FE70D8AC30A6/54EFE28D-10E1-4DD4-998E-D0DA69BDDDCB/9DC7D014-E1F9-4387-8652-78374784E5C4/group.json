@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "2509616C-8B0F-457E-B554-B538190C2514",
+  "do_objectID": "9DC7D014-E1F9-4387-8652-78374784E5C4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
-    "width": 375,
+    "height": 42,
+    "width": 42,
     "x": 0,
     "y": 0
   },
@@ -27,18 +27,22 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "12FC4909-8BB3-4F8B-97AC-FA889A8065D4"
+      "id": "15BF8063-4D54-4E51-8142-FEF44874C3AA"
     },
     {
-      "class": "symbolInstance",
-      "id": "9DDB1390-D220-42E6-8AF2-C19A6CF20AB1"
+      "class": "shapeGroup",
+      "id": "B0C992D1-12AD-4DF7-85C8-7EC6BBCBF471"
     },
     {
-      "class": "group",
-      "id": "01290724-13D5-4BC3-B437-CC73D20D23F1"
+      "class": "shapeGroup",
+      "id": "7C06D602-7CE0-4ABE-B428-54B7497A92DB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "48A73E40-08AA-4CA2-A91C-15C15EA264E8"
     }
   ],
-  "name": "list_icon_integral",
+  "name": "Group 6 Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

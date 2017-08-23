@@ -131,6 +131,34 @@
     {
       "class": "artboard",
       "id": "DD61FF06-B18F-4011-AECA-EE5E5D4737CA"
+    },
+    {
+      "class": "artboard",
+      "id": "AFFC9719-2EF7-4D27-9E57-D2F7BB9E8E9A"
+    },
+    {
+      "class": "bitmap",
+      "id": "4239E0E9-2EEF-45C7-8EE9-E1980425F2A2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6CA6B1A6-B28F-453A-A4E0-7CCBC3DEF854"
+    },
+    {
+      "class": "bitmap",
+      "id": "951243C0-8766-4758-AE9F-2A8881CA7882"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21646CEC-3EAF-4A21-AB57-E9775C1C8534"
+    },
+    {
+      "class": "bitmap",
+      "id": "5BEC2FA8-9110-4816-80D9-1748287770F5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B6B536D3-325A-4067-AFF6-DCF8C56BACBC"
     }
   ],
   "name": "界面UI",

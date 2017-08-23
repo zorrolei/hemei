@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "2509616C-8B0F-457E-B554-B538190C2514",
+  "do_objectID": "6C489920-9B26-4E61-BD1D-AF9C542FBA3D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
-    "width": 375,
+    "height": 42,
+    "width": 42,
     "x": 0,
     "y": 0
   },
@@ -23,22 +23,26 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "12FC4909-8BB3-4F8B-97AC-FA889A8065D4"
+      "id": "B9E86B60-1F9E-42C5-BE93-2A7C2AF2C1A7"
     },
     {
-      "class": "symbolInstance",
-      "id": "9DDB1390-D220-42E6-8AF2-C19A6CF20AB1"
+      "class": "shapeGroup",
+      "id": "96ACF8F4-F204-46EA-9A3E-22E0659A5DBE"
     },
     {
-      "class": "group",
-      "id": "01290724-13D5-4BC3-B437-CC73D20D23F1"
+      "class": "shapeGroup",
+      "id": "F12FF7E7-FC4E-4A36-9C59-FD8D0099D5CC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FE377D9B-C3F9-4907-B493-556EA1F7049C"
     }
   ],
-  "name": "list_icon_integral",
+  "name": "Group 6 Copy 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

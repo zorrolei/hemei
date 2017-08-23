@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "2509616C-8B0F-457E-B554-B538190C2514",
+  "do_objectID": "54EFE28D-10E1-4DD4-998E-D0DA69BDDDCB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
-    "width": 375,
-    "x": 0,
-    "y": 0
+    "height": 42,
+    "width": 94,
+    "x": 60,
+    "y": 93
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -26,19 +26,15 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "12FC4909-8BB3-4F8B-97AC-FA889A8065D4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9DDB1390-D220-42E6-8AF2-C19A6CF20AB1"
+      "class": "group",
+      "id": "DC7CDE6B-9E74-40E4-B88A-90E16389C098"
     },
     {
       "class": "group",
-      "id": "01290724-13D5-4BC3-B437-CC73D20D23F1"
+      "id": "9DC7D014-E1F9-4387-8652-78374784E5C4"
     }
   ],
-  "name": "list_icon_integral",
+  "name": "金元宝 财富 宝藏 黄金 copy 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
