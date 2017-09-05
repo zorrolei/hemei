@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -41,6 +50,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4380C5E0-4426-4930-86B4-F4E97C9E4E1F"
+    }
   ],
   "name": "Artboard",
   "nameIsFixed": false,
