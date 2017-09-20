@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "AA0A773D-C0AF-49BB-B3D9-561DF3047A70",
+  "do_objectID": "68377A97-50D3-4220-A821-CBDC109C968A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 375,
-    "x": 0,
-    "y": 20
+    "height": 103,
+    "width": 103,
+    "x": 523,
+    "y": 274
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -27,23 +27,11 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "4ECCDF99-EFCE-4057-915C-0B673FADDD12"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "6483F726-AFC0-489B-A4F2-01D58D7F71A9"
-    },
-    {
-      "class": "slice",
-      "id": "7E5571C1-0CC0-496F-A001-A6DFE520862D"
-    },
-    {
-      "class": "group",
-      "id": "FF800234-A17B-49B5-94D6-6B308A9C2601"
+      "id": "05D1BE6B-A67D-4184-8AA5-09F3E80DD96A"
     }
   ],
-  "name": "标题",
-  "nameIsFixed": true,
+  "name": "icon-金融 钱币",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "AA0A773D-C0AF-49BB-B3D9-561DF3047A70",
+  "do_objectID": "E1DFFB7D-93F5-434A-8A32-BEA2ED05A124",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 375,
-    "x": 0,
-    "y": 20
+    "height": 108,
+    "width": 116,
+    "x": 87,
+    "y": 267
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -27,23 +27,19 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "4ECCDF99-EFCE-4057-915C-0B673FADDD12"
+      "id": "97C45AF6-024D-4EB3-B21E-A3B1AFC60EAA"
     },
     {
       "class": "shapeGroup",
-      "id": "6483F726-AFC0-489B-A4F2-01D58D7F71A9"
+      "id": "7DC502C3-927B-45AB-9DD8-684E7E32EB18"
     },
     {
-      "class": "slice",
-      "id": "7E5571C1-0CC0-496F-A001-A6DFE520862D"
-    },
-    {
-      "class": "group",
-      "id": "FF800234-A17B-49B5-94D6-6B308A9C2601"
+      "class": "shapeGroup",
+      "id": "6D944E8B-4858-42C4-A54E-EBCDC5597E26"
     }
   ],
-  "name": "标题",
-  "nameIsFixed": true,
+  "name": "钻石",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "AA0A773D-C0AF-49BB-B3D9-561DF3047A70",
+  "do_objectID": "08B2A660-E9EE-458D-B26E-149C2241D744",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 375,
-    "x": 0,
-    "y": 20
+    "height": 82,
+    "width": 88,
+    "x": 323,
+    "y": 280
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -27,23 +27,15 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "4ECCDF99-EFCE-4057-915C-0B673FADDD12"
+      "id": "138A5FC8-4B9C-4729-A1F8-9CEA6A6C9B4C"
     },
     {
       "class": "shapeGroup",
-      "id": "6483F726-AFC0-489B-A4F2-01D58D7F71A9"
-    },
-    {
-      "class": "slice",
-      "id": "7E5571C1-0CC0-496F-A001-A6DFE520862D"
-    },
-    {
-      "class": "group",
-      "id": "FF800234-A17B-49B5-94D6-6B308A9C2601"
+      "id": "D1D69239-69BC-4230-992B-D9829218BA75"
     }
   ],
-  "name": "标题",
-  "nameIsFixed": true,
+  "name": "金豆",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

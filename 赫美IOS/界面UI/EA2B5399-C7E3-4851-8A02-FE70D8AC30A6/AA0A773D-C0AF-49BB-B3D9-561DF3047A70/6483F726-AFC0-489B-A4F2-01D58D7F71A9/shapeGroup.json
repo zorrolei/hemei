@@ -1,6 +1,7 @@
 {
-  "_class": "group",
-  "do_objectID": "AA0A773D-C0AF-49BB-B3D9-561DF3047A70",
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "6483F726-AFC0-489B-A4F2-01D58D7F71A9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,9 +17,10 @@
     "height": 44,
     "width": 375,
     "x": 0,
-    "y": 20
+    "y": 0
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -26,32 +28,18 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "4ECCDF99-EFCE-4057-915C-0B673FADDD12"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "6483F726-AFC0-489B-A4F2-01D58D7F71A9"
-    },
-    {
-      "class": "slice",
-      "id": "7E5571C1-0CC0-496F-A001-A6DFE520862D"
-    },
-    {
-      "class": "group",
-      "id": "FF800234-A17B-49B5-94D6-6B308A9C2601"
+      "class": "rectangle",
+      "id": "6CA9E71C-8B67-4A66-A785-BE3E71B81B5B"
     }
   ],
-  "name": "标题",
-  "nameIsFixed": true,
+  "name": "Rectangle Copy",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "_class": "style",
-    "endDecorationType": 0,
-    "miterLimit": 10,
-    "startDecorationType": 0
-  }
+    "sharedObjectID": "B5E140AD-7AC8-4293-8071-10D6B60C066C"
+  },
+  "windingRule": 1
 }
