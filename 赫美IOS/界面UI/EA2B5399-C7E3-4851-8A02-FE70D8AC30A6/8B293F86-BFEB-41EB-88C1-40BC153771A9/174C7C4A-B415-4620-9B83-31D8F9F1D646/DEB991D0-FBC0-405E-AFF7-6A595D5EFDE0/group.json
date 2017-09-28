@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "4AB47E39-FC47-4706-A90D-67E315598AD7",
+  "do_objectID": "DEB991D0-FBC0-405E-AFF7-6A595D5EFDE0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,25 +12,25 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 17,
-    "width": 51,
-    "x": 298,
-    "y": 23
+    "constrainProportions": true,
+    "height": 11,
+    "width": 12,
+    "x": 0,
+    "y": 4
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "E7CE8BDF-ADFA-49B3-87F4-7F159CE34BB8"
+      "class": "symbolInstance",
+      "id": "1D6DB728-CC8C-4ED7-9B69-79735A2C0046"
     }
   ],
-  "name": "Group 2",
+  "name": "积分",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
