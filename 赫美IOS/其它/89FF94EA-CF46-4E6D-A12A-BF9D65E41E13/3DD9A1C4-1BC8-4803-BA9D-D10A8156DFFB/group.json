@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "3DD9A1C4-1BC8-4803-BA9D-D10A8156DFFB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 66,
+    "width": 66,
+    "x": 140,
+    "y": 18
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "03D1369E-0F4F-42BB-90D5-D7D7DFE66FE6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3213A69A-D4A8-44F8-9456-1E2457AD14C5"
+    }
+  ],
+  "name": "赫美LOGO",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
