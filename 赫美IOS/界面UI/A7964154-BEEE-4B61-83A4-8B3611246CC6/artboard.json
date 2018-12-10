@@ -7,6 +7,8 @@
     "green": 0.9647058823529412,
     "red": 0.9647058823529412
   },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "A7964154-BEEE-4B61-83A4-8B3611246CC6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,7 +28,8 @@
     "y": -942
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -35,11 +38,13 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -50,7 +55,7 @@
       "id": "89986664-85E8-4AF4-B55E-92BA1EB8AA9B"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "DBA042F2-9B9C-494C-A8F7-9B0F531F1BFB"
     },
     {
@@ -72,14 +77,21 @@
   ],
   "name": "转诊-选择医生",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -99,7 +111,17 @@
       }
     ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "A9AAAE3E-B6B9-4FA4-ADC4-F5E73B250D62"
+      ]
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

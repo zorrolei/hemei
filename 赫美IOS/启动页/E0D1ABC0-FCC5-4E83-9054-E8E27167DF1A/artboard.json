@@ -7,6 +7,8 @@
     "green": 0.5725490196078431,
     "red": 0
   },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "E0D1ABC0-FCC5-4E83-9054-E8E27167DF1A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -35,7 +37,8 @@
     "y": -954
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,8 +47,10 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -61,11 +66,18 @@
   ],
   "name": "750×1334",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -74,9 +86,10 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 23.4375,
+      "saturation": 1,
       "type": 0
     },
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -96,11 +109,15 @@
       }
     ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "com.sketchplugins.wechat.selectionDom1": {
       "selection1": "E0D1ABC0-FCC5-4E83-9054-E8E27167DF1A"
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

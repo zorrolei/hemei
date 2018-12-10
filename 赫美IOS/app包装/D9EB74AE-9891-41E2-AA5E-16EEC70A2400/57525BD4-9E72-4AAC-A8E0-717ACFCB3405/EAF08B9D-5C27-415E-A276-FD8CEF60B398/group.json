@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EAF08B9D-5C27-415E-A276-FD8CEF60B398",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CB1757FE-087B-4FF3-94C6-C97EDCC9ED96",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0CCBAC19-91F3-4C01-8CEC-355CA24B3763",
+    "height": 38.99512560929884,
+    "width": 2.404323736989568,
+    "x": 257.2626398578788,
+    "y": 111.5860517435322
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3BF56DC0-3A09-4CEA-8269-5BA62D4A2E4A"
+    },
+    {
+      "class": "shapePath",
+      "id": "4FF1CF1A-084C-447F-BE0D-42251B1BCB13"
+    }
+  ],
+  "name": "Lock Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "FC74A808-F727-4838-8BA6-303B8E6E6D4A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.999625046869141,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "22E5970B-09CA-488A-90CC-F889C262D1F5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

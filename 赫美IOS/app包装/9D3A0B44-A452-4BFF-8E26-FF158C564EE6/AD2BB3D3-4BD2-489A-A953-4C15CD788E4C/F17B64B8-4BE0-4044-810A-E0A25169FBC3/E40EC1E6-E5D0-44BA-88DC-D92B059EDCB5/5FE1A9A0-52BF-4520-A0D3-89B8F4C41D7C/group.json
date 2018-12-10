@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5FE1A9A0-52BF-4520-A0D3-89B8F4C41D7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D624AEBE-92BE-4AC1-89DB-BF4FFD3CEACB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7B070E72-BAF6-41D6-9D2E-20A9363BE447",
+    "height": 33,
+    "width": 4,
+    "x": 0,
+    "y": 117
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "289837B1-855D-440B-98CE-C8D5FD4D5B40"
+    },
+    {
+      "class": "shapePath",
+      "id": "8AEFD522-50B7-44C2-9A50-EEB3EDE8C13A"
+    }
+  ],
+  "name": "Ring/Silent switch",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2015B277-137A-4D64-873C-349F149EDB7C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

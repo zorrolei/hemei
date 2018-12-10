@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D16F0755-4B6A-4154-8FEA-8E6F55E334AE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1512EA58-71EE-4A02-9D86-2B40D51F9444",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "4509282F-A9A0-4EA3-8290-DF96DE469592",
+    "height": 17.40385894876912,
+    "width": 16.2,
+    "x": 80.09999999999988,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "8F9EB67B-A85A-44CC-8F31-A182B8B33A37"
+    },
+    {
+      "class": "oval",
+      "id": "06100233-0D5A-4F25-B6B6-041BB0FFA21D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "12879AAA-C3A0-4B9F-960E-00CDBFF1EAA3"
+    }
+  ],
+  "name": "Hole Copy 6",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "2AE683F5-709A-4D5D-BF2F-55CFDC0040BC",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.857142857142858,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "64844C7A-4E56-42ED-B074-1472E3DDC0C5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

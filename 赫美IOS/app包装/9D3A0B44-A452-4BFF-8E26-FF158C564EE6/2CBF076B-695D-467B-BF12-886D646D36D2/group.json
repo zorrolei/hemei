@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2CBF076B-695D-467B-BF12-886D646D36D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "433B3A86-B101-4E23-A778-8F75FAB64C8A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9639C580-0586-4A8A-B40C-0021DC48D413",
+    "height": 777,
+    "width": 380,
+    "x": 230,
+    "y": 927
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "AA5D0C30-2A87-4F10-8A92-6084B3A2709C"
+    },
+    {
+      "class": "group",
+      "id": "901CEF7E-382E-4BBB-B97D-C5C3A98F0EB8"
+    },
+    {
+      "class": "group",
+      "id": "F0040481-7E67-44E1-BA59-8470DB33A3A8"
+    }
+  ],
+  "name": "iPhone 8/Front/Clay White",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3F58D326-CAE2-49A4-8D6B-90054F6EB3E4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

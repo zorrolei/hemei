@@ -1,6 +1,7 @@
 {
   "_class": "shapePath",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "A3ED2298-A02E-4FC5-9087-9E90E115CC7D",
   "edited": true,
   "exportOptions": {
@@ -20,6 +21,9 @@
     "x": 0,
     "y": 253.000000006082
   },
+  "hasClippingMask": false,
+  "isClosed": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -27,35 +31,62 @@
   "layerListExpandedType": 0,
   "name": "Line",
   "nameIsFixed": false,
-  "path": {
-    "_class": "path",
-    "isClosed": false,
-    "pointRadiusBehaviour": 0,
-    "points": [
-      {
-        "_class": "curvePoint",
-        "cornerRadius": 0,
-        "curveFrom": "{0.0012052064920453631, 0.49999999999994316}",
-        "curveMode": 1,
-        "curveTo": "{0.0012052064920453631, 0.49999999999994316}",
-        "hasCurveFrom": false,
-        "hasCurveTo": false,
-        "point": "{0, 0.50000000000005684}"
-      },
-      {
-        "_class": "curvePoint",
-        "cornerRadius": 0,
-        "curveFrom": "{1, 0.49999999999994316}",
-        "curveMode": 1,
-        "curveTo": "{1, 0.49999999999994316}",
-        "hasCurveFrom": false,
-        "hasCurveTo": false,
-        "point": "{1, 0.49999999999994316}"
-      }
-    ]
-  },
+  "pointRadiusBehaviour": 0,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.0012052064920453631, 0.49999999999994316}",
+      "curveMode": 1,
+      "curveTo": "{0.0012052064920453631, 0.49999999999994316}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0.50000000000005684}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0.49999999999994316}",
+      "curveMode": 1,
+      "curveTo": "{1, 0.49999999999994316}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0.49999999999994316}"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": false,
+      "lineCapStyle": 2,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 2
+      }
+    ],
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
 }

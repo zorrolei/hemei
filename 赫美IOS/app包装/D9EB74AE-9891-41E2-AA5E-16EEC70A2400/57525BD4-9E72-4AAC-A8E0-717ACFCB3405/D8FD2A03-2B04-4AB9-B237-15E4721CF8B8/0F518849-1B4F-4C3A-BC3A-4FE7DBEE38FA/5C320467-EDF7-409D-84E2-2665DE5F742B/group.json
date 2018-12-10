@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5C320467-EDF7-409D-84E2-2665DE5F742B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "313E4BF1-2EDB-4875-8E5B-615FA3440549",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4DEDB61B-AF14-4E83-B115-1F690C0F5953",
+    "height": 448.4439445069366,
+    "width": 256.6615589236316,
+    "x": 0,
+    "y": 39.89501312335958
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "38EAC87C-4CA7-4C58-A98E-ED2B26755C36"
+    },
+    {
+      "class": "rectangle",
+      "id": "3E8C2D33-AB10-417C-9630-D6B83594A265"
+    },
+    {
+      "class": "rectangle",
+      "id": "FDD87A1B-3F29-4EB3-A089-C81FB8487EE9"
+    },
+    {
+      "class": "rectangle",
+      "id": "2BC07E84-94C5-4281-BB8D-37E01532D072"
+    }
+  ],
+  "name": "Antenna Bands",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "CB8BD30E-D6C6-4F6D-8D34-B158A0A22A8B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.999625046869141,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "1695A714-B159-4E05-86C6-D4F21794AFA1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

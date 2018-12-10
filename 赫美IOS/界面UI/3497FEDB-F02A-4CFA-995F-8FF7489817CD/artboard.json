@@ -7,6 +7,8 @@
     "green": 0.9568627450980393,
     "red": 0.9529411764705882
   },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "3497FEDB-F02A-4CFA-995F-8FF7489817CD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,6 +29,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -35,8 +38,10 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
@@ -50,7 +55,7 @@
       "id": "66CB7145-4C42-4592-A8E0-48C766A37D9C"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "21A951FB-FD0D-4F72-ACAE-4F1BFE26683D"
     },
     {
@@ -62,19 +67,19 @@
       "id": "0614AF12-E9E0-4FCE-8CAE-E1B269ABB10E"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "5BD25422-3009-48B5-909B-A90A972A3867"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "868B6325-1583-4477-A01A-26DE658717A2"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "509D8208-B1E7-4164-8B04-4B74FA131811"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "5385936D-7A99-4B2B-8910-BAD3FC7720FE"
     },
     {
@@ -86,7 +91,7 @@
       "id": "322C83BF-58B1-40FE-942C-FA4DEBCB404E"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "B0F6E22F-B7AE-4CFE-8337-64F32C466EA7"
     },
     {
@@ -94,23 +99,23 @@
       "id": "3D5B5593-42ED-43B7-AD20-5529AE2EE47B"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "26D58429-6615-4CBF-AEA3-925D87FB6E8D"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "38E44022-94B5-451B-B7F4-180B818FA1F5"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "6C78983B-C0D4-403D-8A3B-7BC63BFE6790"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "C629CD5C-CB91-46BA-8D0D-E988894DB759"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "73B024AA-63BE-4A15-940B-0D47CAEE4937"
     },
     {
@@ -142,11 +147,11 @@
       "id": "AF98CCA6-23B2-4B2C-8E4A-8208A9E90596"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "F5DEE02A-6E01-4AEC-899A-F4D303F6916E"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "A980EC2D-6F39-4D0E-A997-58B3136E55AC"
     },
     {
@@ -166,7 +171,7 @@
       "id": "F69E32A4-148F-4299-9C95-30E29AB38DA4"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "057A4682-04C2-4D4F-98C4-403B683C572F"
     },
     {
@@ -182,7 +187,7 @@
       "id": "D5EB9B80-1716-4AFE-A702-AA08302B4529"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "231B4559-21D1-46C4-A77D-DC600FB60D2E"
     },
     {
@@ -190,15 +195,15 @@
       "id": "F204BC8C-AC5D-417D-A720-DB997EEC32FE"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "4BD648C6-D428-4D3A-86C6-A35ED5A2512B"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "B2D60BDF-C1C1-4665-957A-5C6D1BF49D7C"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "A9BB9DBE-B10C-4F90-8E94-77512F32832E"
     },
     {
@@ -218,7 +223,7 @@
       "id": "0919AEEE-B579-40A3-928B-4631FF0CF6E1"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "A15FAC52-57CC-497E-B977-66EB48C537BC"
     },
     {
@@ -230,7 +235,7 @@
       "id": "1D489CC8-5F48-4381-90C1-23813238B66E"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "8B85FBD5-330F-4C46-A625-50639057CEC4"
     },
     {
@@ -238,23 +243,23 @@
       "id": "42586660-3B75-4A0F-BC29-2D5394A7F512"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "C3E6ACD4-1221-4B9C-ABA5-497B5150DA48"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "556CA170-F639-4438-A46C-F5C9CC64C330"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "2B3A8EB4-8025-4FBD-84EA-8C6EBE49EF80"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "5B43109C-2691-4F52-8936-9754D8FEA08B"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "6F6A99C0-4555-46D7-AB24-39B7E8C0E74D"
     },
     {
@@ -294,11 +299,11 @@
       "id": "8A8199FF-4CFE-4C97-926C-1930DCAA799D"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "734535F3-8E35-425A-84D7-84A1B037B039"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "619EB1F3-09D6-44CE-AD49-5DFBC42F4BB4"
     },
     {
@@ -318,7 +323,7 @@
       "id": "6F4C9CA3-B296-4804-99EF-35286E22C839"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "E53947AD-68F4-4569-923D-E56643BA4B41"
     },
     {
@@ -334,7 +339,7 @@
       "id": "99454AC9-BAC3-4629-B807-E6E8B1731864"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "52EF2CBC-6A0B-4CF0-8889-BA4729D8C8C1"
     },
     {
@@ -350,15 +355,15 @@
       "id": "BA7B4574-3569-4F8F-9E85-A2CEB66E3E81"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "83297931-CC78-4909-A8A1-3FC191FEE1B2"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "C8106B48-8988-4562-91ED-AB656EBA80F7"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "60B18DA2-5625-4077-8D7A-CB98745C493D"
     },
     {
@@ -368,14 +373,21 @@
   ],
   "name": "学术会议-已报名",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -395,7 +407,8 @@
       }
     ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",

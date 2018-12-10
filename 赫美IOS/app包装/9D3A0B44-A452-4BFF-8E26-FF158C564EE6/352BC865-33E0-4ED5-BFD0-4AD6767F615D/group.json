@@ -1,0 +1,99 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "352BC865-33E0-4ED5-BFD0-4AD6767F615D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6E9F71C7-4B1E-4AC2-A547-AF8CCA971042",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2E5B2585-4060-4067-96A0-DEC1483C50FC",
+    "height": 902,
+    "width": 1290,
+    "x": 267,
+    "y": 3298
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DFEE7D0E-3E4C-40FF-B317-B9230F75A971"
+    },
+    {
+      "class": "group",
+      "id": "89E31B73-D96B-46CD-9D78-70B83A65ECDA"
+    },
+    {
+      "class": "group",
+      "id": "B6528C00-6E4A-46F2-A890-CD3D42735584"
+    },
+    {
+      "class": "group",
+      "id": "8DEE955F-3C1C-4F2E-82DE-AE321F6DD149"
+    },
+    {
+      "class": "group",
+      "id": "B462BB1C-315C-4643-8299-403CD7F8F00E"
+    },
+    {
+      "class": "group",
+      "id": "10155362-134C-4C72-A3FC-82B045096825"
+    },
+    {
+      "class": "group",
+      "id": "A6275D80-F7DA-47B3-933C-03646A9E889D"
+    },
+    {
+      "class": "group",
+      "id": "65F6D1DE-F014-44C9-BC92-D6364F8584FC"
+    },
+    {
+      "class": "group",
+      "id": "A6A4E6E8-4CE3-4E18-8E57-9ABA623F92BB"
+    },
+    {
+      "class": "group",
+      "id": "9C49738E-42CB-41BA-A059-00005936C63D"
+    }
+  ],
+  "name": "iPhone X 05/Left/Clay White",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "997A9C62-11CF-45C4-9AF0-ADF690B14FCB",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "EC5649B9-868E-4997-BCB9-15C28563EC96",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

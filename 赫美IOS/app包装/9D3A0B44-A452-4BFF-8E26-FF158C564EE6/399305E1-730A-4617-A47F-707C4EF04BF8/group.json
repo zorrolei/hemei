@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "399305E1-730A-4617-A47F-707C4EF04BF8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BBAF4610-5FC6-4D65-924E-E49B052D1C1E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C593DA84-CECF-4698-A7B2-5CAFADC1A14A",
+    "height": 770,
+    "width": 1123,
+    "x": -312,
+    "y": 4210
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A5FF58B4-7D23-4A0E-88D1-23627394F982"
+    },
+    {
+      "class": "group",
+      "id": "9136BFEE-A784-4267-ABC0-5EA1D2E9BE97"
+    }
+  ],
+  "name": "iPhone X 7 Color Clay Right",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F50FE5C0-0A41-4234-93B9-58639885B01F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "5B02E17D-422A-47AE-86FB-B61FFFAC0590",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

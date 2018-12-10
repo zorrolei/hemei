@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2617D61F-D366-4D54-8B0A-D4A1E7AD71C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "87B58771-5759-4219-B7DE-2F44C57243F6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5171DA75-EDFA-4BBA-97FB-3D1C6009142C",
+    "height": 8.398950131233596,
+    "width": 8.715673546587027,
+    "x": 84.75241172888082,
+    "y": 29.09636295463065
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "A80A926C-156D-4053-A6F0-5AFDC4E6C378"
+    },
+    {
+      "class": "oval",
+      "id": "6437F6EB-1D3C-4E1F-9A79-83DE20787FB9"
+    },
+    {
+      "class": "oval",
+      "id": "4F3C4492-3250-4C6C-A4DA-151619D23B90"
+    },
+    {
+      "class": "shapePath",
+      "id": "037E0ECF-7775-47A8-B661-48E0F44E3251"
+    },
+    {
+      "class": "shapePath",
+      "id": "0C7F3280-342A-41F3-81FD-E17A2E848B5F"
+    },
+    {
+      "class": "shapePath",
+      "id": "20D5E544-C980-479A-A36F-29563D52FFD2"
+    },
+    {
+      "class": "shapePath",
+      "id": "8CCCB0FA-C693-4A9E-83AA-91B1BA08E808"
+    },
+    {
+      "class": "oval",
+      "id": "B214459F-531B-4906-A13E-029AC44130A3"
+    },
+    {
+      "class": "oval",
+      "id": "3B7CB31C-B0CF-4021-A119-425C101FECEF"
+    }
+  ],
+  "name": "Camera ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0038378A-28E5-489C-B807-8DD45BA067B3",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.49981252343457,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "CFBD3917-8E90-4AFB-8653-9D6E613B2E84",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

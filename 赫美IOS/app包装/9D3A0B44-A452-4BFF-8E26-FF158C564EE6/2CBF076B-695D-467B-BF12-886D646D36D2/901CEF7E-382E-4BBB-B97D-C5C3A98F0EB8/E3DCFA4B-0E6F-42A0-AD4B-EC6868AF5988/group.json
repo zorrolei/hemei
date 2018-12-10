@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E3DCFA4B-0E6F-42A0-AD4B-EC6868AF5988",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0A55E5D5-16C4-4988-9CFC-06C616D34F77",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B5596140-04DB-441C-94AC-CD78033C6F6C",
+    "height": 60,
+    "width": 60,
+    "x": 160.0925925925926,
+    "y": 694.9489216799093
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BEB58662-4B50-426A-8749-2A06415D237A"
+    }
+  ],
+  "name": "Home/Touch ID sensor",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "009FAA85-D015-4E40-8DE6-0B4EC3B42140",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

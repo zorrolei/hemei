@@ -1,12 +1,39 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGXF1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJysyNTs+QkpLTE1OUlZYVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADXxAWTG9uZy1sb29rIG5vdGlmaWNhdGlvbtMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ALgA2AFVdOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUICEiCiMkJSZVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAcMC4zMDU4NzEyMTIxIDAuNzQyNjQ4OTIyNiAxABABgAiACtIoCikqVE5TSUQQAYAJ0iwtLi9aJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0NvbG9yU3BhY2WiMDFcTlNDb2xvclNwYWNlWE5TT2JqZWN00iwtMzRXTlNDb2xvcqIzMdM2Cjc4OTpaTlNUYWJTdG9wc1tOU0FsaWdubWVudIAAgAwQBNIsLTw9XxAQTlNQYXJhZ3JhcGhTdHlsZaI8MdIKP0BBXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xESCkNGSaJERYAPgBCiR0iAEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAQgAAAAAAAF8QE0hlbHZldGljYU5ldWUtTGlnaHTSLC1PUF8QE05TTXV0YWJsZURpY3Rpb25hcnmjT1ExXE5TRGljdGlvbmFyedIsLVNUXxAQTlNGb250RGVzY3JpcHRvcqJVMV8QEE5TRm9udERlc2NyaXB0b3LSLC1RV6JRMdIsLVlaXxASTlNBdHRyaWJ1dGVkU3RyaW5nolsxXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0V5fVHJvb3SAAQAIABEAGgAjAC0AMgA3AFEAVwBeAGcAbgB7AH0AfwCBAJoAoQCpALQAuAC6ALwAvgDCAMQAxgDIAMoA0gDlAQcBEAEWASMBOAFXAVkBWwFdAWIBZwFpAWsBcAF7AYQBkQGUAaEBqgGvAbcBugHBAcwB2AHaAdwB3gHjAfYB+QH+AhsCHQIfAiYCKQIrAi0CMAIyAjQCNgJMAmICawKBAoYCnAKgAq0CsgLFAsgC2wLgAuMC6AL9AwADFQMnAyoDLwAAAAAAAAIBAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAMx"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 0.7426489226,
+            "red": 0.3058712121
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue-Light",
+              "size": 36
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 22,
+        "location": 0
+      }
+    ],
+    "string": "Long-look notification"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "03638D5C-26BB-4581-8535-527F8CB58291",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -27,7 +54,8 @@
     "y": 651
   },
   "glyphBounds": "{{0, 0}, {334, 44}}",
-  "heightIsClipped": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -39,9 +67,38 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "59BD7E7E-53A3-4F19-8396-10B6C986D4EC",
   "shouldBreakMaskChain": false,
   "style": {
-    "sharedObjectID": "59BD7E7E-53A3-4F19-8396-10B6C986D4EC"
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.7426489226,
+          "red": 0.3058712121
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "HelveticaNeue-Light",
+            "size": 36
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

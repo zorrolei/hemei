@@ -7,6 +7,8 @@
     "green": 0.9647058823529412,
     "red": 0.9647058823529412
   },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "A41FB5F9-B2EC-4789-BE2E-A1617147D08B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -36,6 +38,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,8 +47,10 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
@@ -59,7 +64,7 @@
       "id": "D113426E-6F26-4DAD-813A-9D20A2077D88"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "DB56088C-A333-498F-BD81-89DB9179D11C"
     },
     {
@@ -67,23 +72,23 @@
       "id": "AB3B13E6-951C-4302-96BB-4012ABBEF61D"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "4AC0691D-EA70-4DAC-B562-733E93FDB72E"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "E4508E90-113D-479F-BA7E-1B141C9CCFFB"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "F59F4A0E-EEFB-4223-8707-66ABFB395DC6"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "F0A3E309-DFE8-433F-9F8D-1289D6887A48"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "BA0086AA-5FC7-4624-868B-B0A22CF34FC9"
     },
     {
@@ -131,7 +136,7 @@
       "id": "396C5569-B8A2-4A14-97AC-481CC3ECEC5B"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "B627C2B0-7803-4DD1-A524-719EA2EDF646"
     },
     {
@@ -139,15 +144,15 @@
       "id": "E0B8A5BC-424D-491F-B72C-B3A0898D7A80"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "105EEC68-4733-496A-B7CC-05094541D296"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "0218D137-EEE0-490E-9C52-3AC1A4629B17"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "0B7632C8-70D6-49CB-8958-70E1D686E995"
     },
     {
@@ -155,15 +160,15 @@
       "id": "0368AF4C-00C6-45FB-B366-9E53F878C02F"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "D1E731E8-1DF1-412A-8FE3-FE9171D2B66B"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "665E2FD5-326E-42D4-A0F0-6DCAAAC95B42"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "FC6AE61D-7263-4024-89B6-1E70CF850A41"
     },
     {
@@ -175,11 +180,11 @@
       "id": "9D4BB7B3-9B54-4D75-827F-7E19167E5ECF"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "FD5DB928-9CCF-46DE-AEC1-F5F3F875124A"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "14AF394C-D634-4FDE-947A-EF889C140E76"
     },
     {
@@ -207,11 +212,11 @@
       "id": "0870CEE6-E383-4807-9416-A461246A469B"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "03E78224-AA8A-4641-A11D-8A425840BCF1"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "A00DE841-2DB9-4FBC-934C-C555F5624F12"
     },
     {
@@ -233,14 +238,21 @@
   ],
   "name": "转诊-确认转诊信息-确认提示",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -260,7 +272,8 @@
       }
     ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",

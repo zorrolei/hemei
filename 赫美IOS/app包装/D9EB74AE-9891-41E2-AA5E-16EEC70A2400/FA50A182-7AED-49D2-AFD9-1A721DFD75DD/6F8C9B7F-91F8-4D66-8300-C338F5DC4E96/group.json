@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F8C9B7F-91F8-4D66-8300-C338F5DC4E96",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1A09261-16F1-44B7-B713-242F170B2FE0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EAA0F820-24FA-46FE-8D63-65B60E660CD5",
+    "height": 21.2973378327709,
+    "width": 2.704864204113214,
+    "x": -1.13686837721616e-13,
+    "y": 67.1916010498688
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5223F7A6-BB81-400E-8AE3-4DCE7F2C9AC2"
+    },
+    {
+      "class": "shapePath",
+      "id": "709C1DA3-F4F1-410B-9593-C862CE2593E4"
+    }
+  ],
+  "name": "Silent Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1C427650-CC61-4450-985D-197270F95CD6",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.999625046869141,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "293DCAE3-D01C-470F-90EF-A2458AB00F1A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

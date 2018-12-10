@@ -7,6 +7,8 @@
     "green": 0.5725490196078431,
     "red": 0
   },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "96A5022D-E72D-4249-B9F9-A4F6C270D944",
   "exportOptions": {
     "_class": "exportOptions",
@@ -36,6 +38,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,8 +47,10 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -61,11 +66,18 @@
   ],
   "name": "640×1136",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -74,9 +86,10 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 20,
+      "saturation": 1,
       "type": 0
     },
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -96,11 +109,20 @@
       }
     ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "com.sketchplugins.wechat.selectionDom1": {
       "selection1": "BDA2344F-19A5-43EC-A5B2-D61AA70FF6A4"
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "D9AA1AFD-EAD6-4E7E-B80A-1D9617DA58FC",
+        "46F6F077-5ED4-49DF-964D-ED659B31583B"
+      ]
     }
   },
   "verticalRulerData": {

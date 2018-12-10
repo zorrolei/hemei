@@ -1,0 +1,158 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9764705882352941,
+    "green": 0.9647058823529412,
+    "red": 0.9647058823529412
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9D6D63B7-D5E2-4878-8128-FC5DE8E19C16",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 812,
+    "width": 375,
+    "x": 5533,
+    "y": -942
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4BA5B2D2-EA0D-4225-A1DB-77FE955E3B4C"
+    },
+    {
+      "class": "group",
+      "id": "9EDB243E-233D-4AD7-8135-51F5FA56CA6B"
+    },
+    {
+      "class": "group",
+      "id": "DC9F7723-4026-4E5A-BB69-6BE4D42B4523"
+    },
+    {
+      "class": "group",
+      "id": "A1A11DC4-87CB-4A76-9A83-D0D0D361CBC4"
+    },
+    {
+      "class": "group",
+      "id": "B710D629-78ED-40B4-BF98-099566E1A1BD"
+    },
+    {
+      "class": "rectangle",
+      "id": "9D5F5A43-3440-4AF1-9D63-2119D0374CF7"
+    },
+    {
+      "class": "group",
+      "id": "350BBF08-FB8D-4B37-A9CA-23BD8CCE1E5B"
+    },
+    {
+      "class": "group",
+      "id": "990940DE-8BCE-4C32-86C4-F2F94576C421"
+    },
+    {
+      "class": "group",
+      "id": "6461A0B9-EC57-4A14-B08D-BEF2A4971E3D"
+    },
+    {
+      "class": "group",
+      "id": "C9CDB1A5-7AB9-4284-9DF4-D04A440892D5"
+    },
+    {
+      "class": "group",
+      "id": "EEC957C5-49E0-46F1-80B2-C5F02602E421"
+    }
+  ],
+  "name": "学术会议 copy",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "56B04C6E-1484-453C-AC63-AE0F36424358",
+        "950F007F-2C1C-4B50-9703-59D55FBF2CDD"
+      ]
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

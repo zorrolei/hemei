@@ -1,0 +1,136 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": 1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BBE476DB-4ACB-4D19-B866-F16675236473",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "91C6123D-F1A5-4C6F-BCC3-40E09ED74F95",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "DEAF690A-96DC-41F7-B150-7F23271BF943",
+    "height": 400.1499812523435,
+    "width": 225.4053503427679,
+    "x": 1.803242802742189,
+    "y": 1.799775028121416
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "iPhone 6",
+  "nameIsFixed": true,
+  "pointRadiusBehaviour": 0,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0.00074066603917350186}",
+      "curveMode": 1,
+      "curveTo": "{0, 0.00074066603917350186}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.99999999999995004, 0.33383701083896389}",
+      "curveMode": 1,
+      "curveTo": "{0.99999999999999967, 3.1770051301299078e-06}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99864003550821123, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{0.99999999999999989, 0.66691850541948205}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.0039946737683089215, 1}",
+      "curveMode": 1,
+      "curveTo": "{0.0039946737683089215, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "95C459F4-5861-4F97-83BC-E5BC4B935409",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.999625046869141,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "3ECC55CB-076F-4AA4-9621-6D804C90C7CF",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2509803921568627,
+          "green": 0.2509803921568627,
+          "red": 0.2509803921568627
+        },
+        "do_objectID": "49EF3EC8-903C-45C1-8378-2EBCC65A636A",
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/f4691f00478024f6a78203f909f0561e32a0fe90.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "design.magicmirror": {
+      "imageQuality": 0,
+      "source": "iPhone 6",
+      "version": "2.0.2"
+    },
+    "io.magicsketch.mirror": {
+      "artboardID": "EF327DB4-ADFF-44F0-BB45-F83BDBD4C9B6",
+      "imageQuality": 3
+    }
+  }
+}

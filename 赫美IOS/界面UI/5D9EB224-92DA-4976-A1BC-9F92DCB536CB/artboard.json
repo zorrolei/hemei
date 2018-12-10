@@ -7,6 +7,8 @@
     "green": 0.5725490196078431,
     "red": 0.00392156862745098
   },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "5D9EB224-92DA-4976-A1BC-9F92DCB536CB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -36,6 +38,7 @@
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,8 +47,10 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -63,7 +68,7 @@
       "id": "6A70B7D9-2E06-4828-9A70-BD3E744EB817"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "F78A5906-937C-4446-839F-29325DE04699"
     },
     {
@@ -79,7 +84,7 @@
       "id": "F62C21C8-D927-4DDC-9D30-DF64C64ACD8F"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "3C3B6A58-4321-43E0-8C56-0E99E5FB42BA"
     },
     {
@@ -87,7 +92,7 @@
       "id": "57C181A9-E517-4008-A1BB-D493BB7EBC2B"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "017B8EC6-FAB4-4C80-89C6-483B12750715"
     },
     {
@@ -109,14 +114,21 @@
   ],
   "name": "登录",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -136,11 +148,20 @@
       }
     ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "com.sketchplugins.wechat.selectionDom1": {
       "selection1": "38B76516-2613-426D-A145-29BA3F21F32B"
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "44FB0EB6-EE56-4D36-A52E-CE4CFE9363CE",
+        "5E6DECA3-E920-4480-B105-14A5CF18C9B7"
+      ]
     }
   },
   "verticalRulerData": {

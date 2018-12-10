@@ -10,6 +10,7 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 0.6451612903225807,
+      "saturation": 1,
       "type": 0
     },
     "borders": [
@@ -28,7 +29,7 @@
         "thickness": 0.5
       }
     ],
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -45,7 +46,6 @@
           "elipseLength": 1,
           "from": "{0.5, 0}",
           "gradientType": 1,
-          "shouldSmoothenOpacity": false,
           "stops": [
             {
               "_class": "gradientStop",
@@ -102,7 +102,7 @@
         "spread": 0
       }
     ],
-    "sharedObjectID": "FF474B2D-888A-46DE-A86D-502D5627F94C",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

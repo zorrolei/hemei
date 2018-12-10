@@ -1,5 +1,6 @@
 {
   "_class": "shapeGroup",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
   "do_objectID": "DC142062-B319-43B8-9BA4-62572834E834",
   "exportOptions": {
@@ -21,6 +22,7 @@
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,6 +63,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "FF474B2D-888A-46DE-A86D-502D5627F94C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -70,6 +73,7 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 0.06243496357960458,
+      "saturation": 1,
       "type": 0
     },
     "borders": [
@@ -88,7 +92,7 @@
         "thickness": 0.5
       }
     ],
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -105,7 +109,6 @@
           "elipseLength": 1,
           "from": "{0.5, 0}",
           "gradientType": 1,
-          "shouldSmoothenOpacity": false,
           "stops": [
             {
               "_class": "gradientStop",
@@ -162,8 +165,8 @@
         "spread": 0
       }
     ],
-    "sharedObjectID": "FF474B2D-888A-46DE-A86D-502D5627F94C",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "windingRule": 1
 }

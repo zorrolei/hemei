@@ -7,6 +7,8 @@
     "green": 0.9647058823529412,
     "red": 0.9647058823529412
   },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "3A4C69A1-1F5F-4D66-BB65-88FD4723CF91",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,6 +29,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -35,8 +38,10 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
@@ -50,11 +55,11 @@
       "id": "7ECCDE19-EF15-4CDD-8D83-18C4D7B28C24"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "1319086D-50E8-408F-8C13-4582C4DECE23"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "144D9043-7185-4D8A-B964-3BBC0D6D91F6"
     },
     {
@@ -66,7 +71,7 @@
       "id": "6933B2AB-A9DC-4002-91AF-4A09B4D6B142"
     },
     {
-      "class": "shapeGroup",
+      "class": "triangle",
       "id": "3626BFA9-87E8-4933-8F39-9BE42B977380"
     },
     {
@@ -78,7 +83,7 @@
       "id": "7B93E5F7-8073-45F9-8533-8DE03A4D7708"
     },
     {
-      "class": "shapeGroup",
+      "class": "triangle",
       "id": "BD4DAB1A-936B-4B17-9A70-02F1697E5D61"
     },
     {
@@ -100,14 +105,21 @@
   ],
   "name": "转诊-选择地区",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -127,7 +139,8 @@
       }
     ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",

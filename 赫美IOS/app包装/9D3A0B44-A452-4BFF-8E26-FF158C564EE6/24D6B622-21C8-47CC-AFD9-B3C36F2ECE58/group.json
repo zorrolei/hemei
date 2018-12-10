@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "24D6B622-21C8-47CC-AFD9-B3C36F2ECE58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "148D6235-B855-4F27-998D-A28CEB3E9AA5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "82928B0D-C71C-4D02-BE6D-B72DD9831C0F",
+    "height": 87,
+    "width": 612,
+    "x": 294,
+    "y": 2839
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "47F63BCF-9C78-4B33-95EF-73672F4E9152"
+    },
+    {
+      "class": "group",
+      "id": "8BBED07B-CBCB-43CE-80A3-CF812A1F7F7B"
+    },
+    {
+      "class": "group",
+      "id": "1337D2D3-0DBD-466F-A31C-8A5E6B4E6B95"
+    },
+    {
+      "class": "group",
+      "id": "B6134502-1BE8-426A-87AA-83AB47F8D52A"
+    },
+    {
+      "class": "text",
+      "id": "FE4BC15A-B385-4370-B700-8BD40E75B955"
+    },
+    {
+      "class": "text",
+      "id": "823DD78A-5641-43A6-8968-C8F910E85EAF"
+    },
+    {
+      "class": "text",
+      "id": "D815CC0A-46FC-4A2D-BC6E-2FCF81C93211"
+    },
+    {
+      "class": "text",
+      "id": "A648E6C3-D7E6-4E5C-AC1B-05A73EA43152"
+    }
+  ],
+  "name": "tabs-bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "58446ABA-56A7-4CAD-8E8F-002C3A1F3EDB",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "7D16113A-73F8-44A8-8252-18FB0E594A51",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

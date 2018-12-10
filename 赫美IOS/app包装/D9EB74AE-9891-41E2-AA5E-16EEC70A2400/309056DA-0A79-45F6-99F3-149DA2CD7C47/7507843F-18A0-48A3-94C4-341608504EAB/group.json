@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7507843F-18A0-48A3-94C4-341608504EAB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "48896A6A-5CDC-4807-80AB-8D9A6EC35941",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BF1D254B-B98F-43F5-BEF7-C403434BBFB6",
+    "height": 39.29508811398576,
+    "width": 2.404323736989524,
+    "x": 0.601080934247301,
+    "y": 113.3858267716535
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C8452E85-253A-44C6-BF13-E0A844231220"
+    },
+    {
+      "class": "shapePath",
+      "id": "E73AD64F-0A92-4F55-ADBE-45FD83127ED0"
+    }
+  ],
+  "name": "Volume Up Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0B32B932-711D-42E6-835E-55314A35B0E6",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.999625046869141,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "FDB660DC-BB5E-4A59-8513-00616B4C722A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

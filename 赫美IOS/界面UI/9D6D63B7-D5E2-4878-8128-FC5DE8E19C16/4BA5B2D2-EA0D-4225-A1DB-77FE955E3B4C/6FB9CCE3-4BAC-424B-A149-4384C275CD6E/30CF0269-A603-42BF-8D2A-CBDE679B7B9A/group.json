@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "30CF0269-A603-42BF-8D2A-CBDE679B7B9A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 170,
+    "width": 342,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3261BB36-07BF-44A0-A155-3150F447B864"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "535A08A1-6C85-4C8A-9BED-749FA35B0AFC"
+    },
+    {
+      "class": "rectangle",
+      "id": "57FAC864-5C29-4E58-AD1C-A82DB04BC7CF"
+    },
+    {
+      "class": "rectangle",
+      "id": "31ED8384-F698-41D9-B7F7-5AAEDDC033A5"
+    }
+  ],
+  "name": "Rectangle 9 + Rectangle 7 Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

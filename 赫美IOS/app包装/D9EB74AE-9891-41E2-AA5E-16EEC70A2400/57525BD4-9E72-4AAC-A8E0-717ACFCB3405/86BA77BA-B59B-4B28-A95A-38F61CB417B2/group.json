@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "86BA77BA-B59B-4B28-A95A-38F61CB417B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "05B5C56E-3A6F-4BB8-9E9E-5606ADE03672",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7047216B-99E5-4580-8005-9FF44B3A1E14",
+    "height": 39.29508811398576,
+    "width": 2.404323736989523,
+    "x": 0.6010809342471873,
+    "y": 160.1799775028124
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7143D9BF-65DA-4412-819B-3E23707E089C"
+    },
+    {
+      "class": "shapePath",
+      "id": "7173F79D-8EC9-4142-B0F6-5783D00BCC2C"
+    }
+  ],
+  "name": "Volume Down Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E385449E-B843-471D-A2FF-8779E9C1A43B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.999625046869141,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "45FF1537-1EFA-48C1-96E4-556AA80A055E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

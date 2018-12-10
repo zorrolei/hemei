@@ -7,6 +7,8 @@
     "green": 0.9647058823529412,
     "red": 0.9647058823529412
   },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "FC8B6ED8-66D5-4E31-A7C8-007E823F3F88",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,6 +29,7 @@
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -35,8 +38,10 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -54,7 +59,7 @@
       "id": "5E044E60-D723-4ABD-9BDE-3A3A7AED83CB"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "9FDC10FC-763B-4E0F-ACE6-E83E1D6385A3"
     },
     {
@@ -62,11 +67,11 @@
       "id": "A7DD91EB-B727-42AA-8AED-F09CA1984D49"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "37AAD51A-F25E-4861-A7E9-5737D1FB7184"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "779AF757-DF58-42BF-B524-B38922EB51F1"
     },
     {
@@ -92,14 +97,21 @@
   ],
   "name": "我的-接诊详情",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -119,7 +131,13 @@
       }
     ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 2
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

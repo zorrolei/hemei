@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "55542EBF-B0F0-4AC4-91F8-E65F18284F06",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "60C52D81-E875-4C3E-B9AA-A98303C249A6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4DC6B27A-1D7C-45AD-9FF0-5326CF22D66D",
+    "height": 510,
+    "width": 742,
+    "x": -21,
+    "y": 6141
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "5BF9D6CE-E3ED-48C2-A335-2515332D8265"
+    },
+    {
+      "class": "group",
+      "id": "5AF4600F-3080-4023-9375-E1EC0C7BAAF7"
+    },
+    {
+      "class": "group",
+      "id": "3D26E448-3651-45FB-944A-E5B7083BE452"
+    }
+  ],
+  "name": "09 copy 4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "BC2A3204-7C46-4C01-BA40-0A4EF2ACAD38",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "6CF4D6F2-D254-441E-B464-3F09BFE50882",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "99BAD0CA-DB81-42B4-BB93-FA45EB71BEBA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1130E64-6737-4C6C-9E98-12A4EA42CB51",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C8C76B8B-CD35-4B32-BF87-B2AE07832FD2",
+    "height": 63,
+    "width": 4,
+    "x": 0,
+    "y": 79
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "0AF34073-3247-4984-91F4-E99D572115DF"
+    },
+    {
+      "class": "shapePath",
+      "id": "39572DB3-525C-4265-A0A0-4E132CAA7BCA"
+    }
+  ],
+  "name": "Down",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "07EEA66D-51A4-4B67-822C-CB00A0AA3180",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

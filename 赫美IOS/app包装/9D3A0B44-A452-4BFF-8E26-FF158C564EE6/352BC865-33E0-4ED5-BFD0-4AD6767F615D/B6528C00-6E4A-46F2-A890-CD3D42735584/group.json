@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B6528C00-6E4A-46F2-A890-CD3D42735584",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "72E59E6B-E9C7-4A8C-B16B-A87A25C0A04D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9C93645F-7D6D-4573-85CB-F61E57A0386F",
+    "height": 97.22155688622752,
+    "width": 365.4,
+    "x": 893.6636779099434,
+    "y": 629.9268522158346
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7AE0DB2B-F1CD-40E7-BE45-A30B31691D76"
+    },
+    {
+      "class": "group",
+      "id": "31FCF1BC-0E5F-49BD-88DD-18358BB0B9C2"
+    }
+  ],
+  "name": "Build-In Speaker",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 10,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7EAE0C53-F2A5-4674-A9E6-60282404E6CA",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "193893B3-3838-4F71-90CB-C4A6F2EF6580",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

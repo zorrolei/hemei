@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "27EB495A-E55F-42B0-B06F-03C102AACFBA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F8705B1F-835A-4E86-BA80-2E952AA807CC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28813725-EAB3-4EAA-A78B-FB0E4A19A11D",
+    "height": 528.5339332583425,
+    "width": 256.9620993907553,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0BD7966C-CDA6-48F8-93B4-A8BC8300FFFC"
+    },
+    {
+      "class": "group",
+      "id": "0FB1A18D-7427-4080-8B44-5964902EF5D0"
+    },
+    {
+      "class": "shapePath",
+      "id": "51E74259-9639-4074-9352-EA9CC6B70749"
+    }
+  ],
+  "name": "Silver",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A8E911E7-5901-4190-8344-8907E156BFF9",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.999625046869141,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "2662BBB9-C916-48FF-9F82-B399D3FE5203",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

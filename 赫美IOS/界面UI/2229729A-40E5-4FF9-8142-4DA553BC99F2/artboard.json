@@ -7,6 +7,8 @@
     "green": 0.9647058823529412,
     "red": 0.9647058823529412
   },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "2229729A-40E5-4FF9-8142-4DA553BC99F2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,7 +28,8 @@
     "y": -942
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -35,11 +38,13 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -54,7 +59,7 @@
       "id": "F1322509-A043-4D0E-9673-6BFF5F2C7A18"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "67542E38-6B83-497A-BDE0-84CB1111561B"
     },
     {
@@ -62,23 +67,23 @@
       "id": "614D6A2E-EEBD-45D2-AE2D-7470B71F8509"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "3B34B23B-CFBA-4153-AF24-7097625D787A"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "E3AC27B3-D0D8-4558-8A75-39FADF82101A"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "1E650F2A-7C2F-479F-A566-A4AE50FB5D7A"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "67FB638A-BFB5-4D43-A890-8C413663A01D"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "E0D1EBD1-1DA0-4DDE-B96A-F5B029025C5C"
     },
     {
@@ -126,7 +131,7 @@
       "id": "57201800-1E32-4C1E-A999-7CF1F2CD99C4"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "91D3D2C1-99DB-4389-8811-670253CAFD66"
     },
     {
@@ -134,15 +139,15 @@
       "id": "5EA8BF58-DF6F-45CD-B249-821521855302"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "90857E2D-5F70-417A-8D31-E1FCC3D69956"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "809B4E79-94F3-4F9F-A762-5D28984FAA7A"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "E6854571-A8CD-4004-8D3D-C5713D4595C1"
     },
     {
@@ -154,11 +159,11 @@
       "id": "37770C23-8E76-41D9-969C-21CAB9C8A8A1"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "FA6FE45F-ABBC-4418-B76C-FC99E160F81A"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "41A29FD6-8A19-4474-A144-7377715849A9"
     },
     {
@@ -172,14 +177,21 @@
   ],
   "name": "转诊",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -199,7 +211,18 @@
       }
     ],
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "742C525A-637A-48D4-A4B4-899D8C44374C",
+        "1B1CAC37-433D-4369-B645-2EC679C7B5B4"
+      ]
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

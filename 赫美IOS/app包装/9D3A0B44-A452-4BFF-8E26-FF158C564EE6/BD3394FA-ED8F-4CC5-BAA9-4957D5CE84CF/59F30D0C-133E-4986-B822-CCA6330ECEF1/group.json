@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "59F30D0C-133E-4986-B822-CCA6330ECEF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1D475D1-6D95-45A4-BC5E-72D98789A40C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EA5D40DC-1644-4CBD-9234-35AB2BE113B1",
+    "height": 696,
+    "width": 1230,
+    "x": 246.8397267472412,
+    "y": 252.9213081255065
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "645B0407-9B53-4FBB-8664-67DF66394BC4"
+    },
+    {
+      "class": "rectangle",
+      "id": "4DC18F38-71E9-42BE-87E3-6504AE19DD11"
+    },
+    {
+      "class": "rectangle",
+      "id": "C19FC750-88B4-4DC4-8B10-979E24D183E9"
+    }
+  ],
+  "name": "Shadow 5",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6F31BEDB-A270-4FB9-A665-96FA52598739",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.248511099079589,
+      "saturation": 1,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "F2F3F3E4-0F34-400F-B6D3-D41FA09F6C30",
+      "opacity": 0.6693638392857143
+    },
+    "do_objectID": "C61525FC-5CD8-40F4-827C-0FA67E65BBEA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

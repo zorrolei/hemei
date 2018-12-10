@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7FBC7605-7F4C-449D-8F5C-6B6928667ADC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DF9F5A2F-E28C-49F8-845B-C7231FF95CE9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E17EFD9F-873C-4B1D-A1A6-053A5B3BE1C5",
+    "height": 8.398950131233596,
+    "width": 8.715673546587027,
+    "x": 84.75241172888072,
+    "y": 29.09636295463069
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "2426C694-3344-4F1E-9780-3B7EFEA0F778"
+    },
+    {
+      "class": "oval",
+      "id": "BDCCB1B4-DCFA-4B17-9734-B56891196540"
+    },
+    {
+      "class": "oval",
+      "id": "B4C1EF47-6D79-4B15-90E7-3BA341F735B0"
+    },
+    {
+      "class": "shapePath",
+      "id": "D108834A-A808-4BD9-92B8-F3C9C5024947"
+    },
+    {
+      "class": "shapePath",
+      "id": "CD88A0F6-DB31-4DAA-986A-6B55C4494C58"
+    },
+    {
+      "class": "shapePath",
+      "id": "A65B23AF-C65E-426B-81D1-A842CD56AFE0"
+    },
+    {
+      "class": "shapePath",
+      "id": "BD245854-A45D-46C1-BD57-28A318AE6140"
+    },
+    {
+      "class": "oval",
+      "id": "35106398-4D10-412D-9987-A5D91CE6BE53"
+    },
+    {
+      "class": "oval",
+      "id": "4036E1FC-4E4B-45B4-ADD4-0F4E6C13B4BF"
+    }
+  ],
+  "name": "Camera ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1FACA7BC-D426-4074-AAFF-DE7B16008CCF",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.49981252343457,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "DC26B46F-4835-42D6-A8A5-3304D4C7132A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
